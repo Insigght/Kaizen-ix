@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samuelate99
+- 👋 Hi, I’m @Kaizenix
 - 👀 I’m interested in Software / Game Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any fun projects!
